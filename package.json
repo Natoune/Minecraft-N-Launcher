@@ -1,0 +1,19 @@
+{
+  "author": "Natoune <contact@natoune.tk> (https://natoune.tk)",
+  "name": "minecraft-n-launcher",
+  "version": "0.0.1-dev",
+  "description": "Lancez Minecraft rapidement !",
+  "license": "MIT",
+  "repository": "natoune/minecraft-n-launcher",
+  "main": "index.js",
+  "keywords": [
+    "minecraft",
+    "minecraft-launcher",
+    "minecraft-launcher-code",
+    "minecraft-launcher-node",
+    "launcher",
+    "forge",
+    "mnecraft-forge",
+    "natoune"
+  ]
+}
